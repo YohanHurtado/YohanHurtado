@@ -17,9 +17,9 @@ I've created a YouTube Channel in wich I'll be updating you about the things tha
 ## Connect with Me
 
 - [YouTube](https://www.youtube.com/@Hurtadoyohan)
-- [Discord Server]([https://www.linkedin.com/in/YohanHurtado/](https://discord.gg/vB4wuKD7))
+- [Discord Server](https://discord.gg/vB4wuKD7)
 - [Twitter](https://x.com/Hur_Yohan)
-- [Instagram]([https://www.youtube.com/@Hurtadoyohan](https://www.instagram.com/hurt_yohan/))
+- [Instagram](https://www.instagram.com/hurt_yohan/)
   
 
 ## GitHub Stats
