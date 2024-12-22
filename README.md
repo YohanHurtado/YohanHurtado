@@ -12,15 +12,8 @@ I've created a YouTube Channel in wich I'll be updating you about the things tha
 
 ## Skills
 - **Programming Languages I'm learning:** Python, Javascript 
-- **Languages I speak:** Spanish (N), English (C1), Portuguese (A2) 
+- **Languages I speak:** Spanish (N), English (C1), Portuguese (A2)
 
-## Connect with Me
-
-- [YouTube](https://www.youtube.com/@Hurtadoyohan)
-- [Discord Server](https://discord.gg/vB4wuKD7)
-- [Twitter](https://x.com/Hur_Yohan)
-- [Instagram](https://www.instagram.com/hurt_yohan/)
-  
 
 ## GitHub Stats
 ![YohanHurtado's GitHub stats](https://github-readme-stats.vercel.app/api?username=YohanHurtado&show_icons=true&theme=radical)
