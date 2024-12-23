@@ -1,7 +1,7 @@
 # Hi there, I'm Yohan Hurtado! 
 
 ## About Me
-I'm a passionate software developer and a Control Engineering student at the Colombia National University with a strong interest in web development, math, and continuous learning. I enjoy solving complex problems and building efficient solutions. I have some projects that I'd like to create. I'll be uploading those projects throughout my learning journey.
+I'm a Control Engineering student at the Colombia National University, I'm learning to code and I got a strong interest in web development, math, and learning. I enjoy solving complex problems and building efficient solutions. I have some projects that I'd like to create. I'll be uploading those projects throughout my learning journey.
 I've created a YouTube Channel in wich I'll be updating you about the things that I've been doing :)
 
 - 🌱 I’m currently learning Python.
